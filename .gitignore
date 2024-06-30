@@ -1,4 +1,5 @@
 __init__.py
-Predict_biological_response.ipynb
+Find_best_hyperparameters_local.ipynb
 .gitignore
 4. Практика_new.ipynb
+Scikit-Learn Classification (Logistic Regression) with optuna.ipynb
